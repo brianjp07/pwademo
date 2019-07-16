@@ -1,0 +1,86 @@
+{
+  "configVersion": 1,
+  "timestamp": 1563274349266,
+  "index": "https://brianjp07.github.io/pwademo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://brianjp07.github.io/pwademo/favicon.ico",
+        "https://brianjp07.github.io/pwademo/index.html",
+        "https://brianjp07.github.io/pwademo/main-es2015.fa4dd170e1971534a3df.js",
+        "https://brianjp07.github.io/pwademo/main-es5.fa4a2b10d60f8747aa88.js",
+        "https://brianjp07.github.io/pwademo/polyfills-es2015.4d31cca2afc45cfd85b5.js",
+        "https://brianjp07.github.io/pwademo/polyfills-es5.2219c87348e60efc0076.js",
+        "https://brianjp07.github.io/pwademo/runtime-es2015.703a23e48ad83c851e49.js",
+        "https://brianjp07.github.io/pwademo/runtime-es5.465c2333d355155ec5f3.js",
+        "https://brianjp07.github.io/pwademo/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-128x128.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-144x144.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-152x152.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-180x180.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-192x192.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-384x384.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-512x512.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-72x72.png",
+        "https://brianjp07.github.io/pwademo/assets/icons/icon-96x96.png",
+        "https://brianjp07.github.io/pwademo/assets/pdfs/14-110.pdf",
+        "https://brianjp07.github.io/pwademo/assets/pdfs/51-104.pdf",
+        "https://brianjp07.github.io/pwademo/icon-180x180.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-128x128.png": "e014f63fc02956458333917f5b6901b35124053c",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-144x144.png": "357b7ced829f376653a023ec703c48b62d7b980a",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-152x152.png": "06ab8e76e02b20c5019b6f2bb6459e1e603875c6",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-180x180.png": "f908cad1ef6eb97645a94aea9875adf7b28ebe54",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-192x192.png": "b548510b45e98a41ec24776fda38f4e2d0644f65",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-384x384.png": "c1e246f7160be3244fbc7983d4013ea3d4d9236a",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-512x512.png": "700bda5e192886e4055ac50281bdafa19b409378",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-72x72.png": "21262f94c07016ef38dd2a855904ed97a6352265",
+    "https://brianjp07.github.io/pwademo/assets/icons/icon-96x96.png": "5b1a3e19ecaa9e96a95ebc8b144ba583e485b1db",
+    "https://brianjp07.github.io/pwademo/assets/pdfs/14-110.pdf": "1d006a1a6a2944c0cbd972a8e4876d6b49c5c005",
+    "https://brianjp07.github.io/pwademo/assets/pdfs/51-104.pdf": "1f91d5079db1e4a6d8009325f8d0b25158494f49",
+    "https://brianjp07.github.io/pwademo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://brianjp07.github.io/pwademo/icon-180x180.png": "f908cad1ef6eb97645a94aea9875adf7b28ebe54",
+    "https://brianjp07.github.io/pwademo/index.html": "b430592ab80010825145f048b88efb7e44d04a22",
+    "https://brianjp07.github.io/pwademo/main-es2015.fa4dd170e1971534a3df.js": "4430aefa0c2edaa88a3dbde16d5f7a05aae5bccb",
+    "https://brianjp07.github.io/pwademo/main-es5.fa4a2b10d60f8747aa88.js": "fb81da2b788d6b49b36bfe58a6cfad1c0f54999c",
+    "https://brianjp07.github.io/pwademo/polyfills-es2015.4d31cca2afc45cfd85b5.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
+    "https://brianjp07.github.io/pwademo/polyfills-es5.2219c87348e60efc0076.js": "6c9688c6586bfcf669879655ba5874ef1d2b4bcf",
+    "https://brianjp07.github.io/pwademo/runtime-es2015.703a23e48ad83c851e49.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://brianjp07.github.io/pwademo/runtime-es5.465c2333d355155ec5f3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://brianjp07.github.io/pwademo/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
